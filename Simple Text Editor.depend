@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1564540786 source:c:\users\user\documents\myc++\simple text editor\simple text editor\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+
